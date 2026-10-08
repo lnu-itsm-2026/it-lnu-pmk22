@@ -7,8 +7,8 @@
 
 | Блок | Service Owner | Incident Manager | Change Manager | Risk & Knowledge |
 |---|---|---|---|---|
-| 1 | | | | |
-| 2 | | | | |
+| 1 |Яюк Ганна| | | |
+| 2 | | | | |Пес патрон
 | 3 | | | | |
 | 4 | | | | |
 | 5 | | | | |
@@ -20,4 +20,5 @@
 
 | GitHub-нік | Ім'я |
 |---|---|
-| | |
+|yatsiukhanna|Ганна|
+
