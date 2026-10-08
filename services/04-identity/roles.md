@@ -7,7 +7,7 @@
 
 | Блок | Service Owner | Incident Manager | Change Manager | Risk & Knowledge |
 |---|---|---|---|---|
-| 1 |MintEnder|fasywastaken| | | |
+| 1 |MintEnder|fasywastaken| |liorenline| |
 | 2 | | | | |
 | 3 | | | | |
 | 4 | | | | |
@@ -22,3 +22,4 @@
 |---|---|
 |MintEnder|Анна Дрань|
 |fasywastaken|Роман Ласка|
+|liorenline|Іванна Дудка|
