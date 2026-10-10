@@ -7,7 +7,7 @@
 
 | Блок | Service Owner | Incident Manager | Change Manager | Risk & Knowledge |
 |---|---|---|---|---|
-| 1 | | | | |
+| 1 | | |TarasPendykivskyi | |
 | 2 | | | | |
 | 3 | | | | |
 | 4 | | | | |
@@ -20,4 +20,4 @@
 
 | GitHub-нік | Ім'я |
 |---|---|
-| | |
+| TarasPendykivskyi| Тарас|
