@@ -8,7 +8,7 @@
 | Блок | Service Owner | Incident Manager | Change Manager | Risk & Knowledge |
 |---|---|---|---|---|
 | 1 | | | | |
-| 2 | danilizum128-netizen | | | |
+| 2 | danilizum128-netizen | | TarasPendykivskyi | |
 | 3 | | | | |
 | 4 | | | | |
 | 5 | | | | |
@@ -20,5 +20,5 @@
 
 | GitHub-нік | Ім'я |
 |---|---|
-| | |
+| TarasPendykivskyi | Тарас |
 | danilizum128-netizen | Даніїл |
