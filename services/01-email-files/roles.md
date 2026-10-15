@@ -8,7 +8,7 @@
 | Блок | Service Owner | Incident Manager | Change Manager | Risk & Knowledge |
 |---|---|---|---|---|
 | 1 |sw-vladick | zanoz1ch | nazzony | Lev41k |
-| 2 | | | | |
+| 2 |sw-vladick | zanoz1ch | nazzony | Lev41k |
 | 3 | | | | |
 | 4 | | | | |
 | 5 | | | | |
