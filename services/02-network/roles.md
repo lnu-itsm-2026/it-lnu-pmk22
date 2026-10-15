@@ -8,7 +8,7 @@
 | Блок | Service Owner | Incident Manager | Change Manager | Risk & Knowledge |
 |---|---|---|---|---|
 | 1 | | | | |
-| 2 | | | | |
+| 2 | danilizum128-netizen | | | |
 | 3 | | | | |
 | 4 | | | | |
 | 5 | | | | |
@@ -21,3 +21,4 @@
 | GitHub-нік | Ім'я |
 |---|---|
 | | |
+| danilizum128-netizen | Даніїл |
