@@ -7,7 +7,7 @@
 
 | Блок | Service Owner | Incident Manager | Change Manager | Risk & Knowledge |
 |---|---|---|---|---|
-| 1 | danilizum128-netizen | | TarasPendykivskyi | |
+| 1 | danilizum128-netizen | | TarasPendykivskyi | DaniilMyronchuk |
 | 2 |  | | | |
 | 3 | | | | |
 | 4 | | | | |
@@ -22,3 +22,4 @@
 |---|---|
 | TarasPendykivskyi | Тарас |
 | danilizum128-netizen | Даніїл |
+| DaniilMyronchuk | Даніїл |
