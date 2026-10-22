@@ -8,8 +8,8 @@
 | Блок | Service Owner | Incident Manager | Change Manager | Risk & Knowledge |
 |---|---|---|---|---|
 | 1 |pslmxxx |yanebohdan |vasylyna |vladyknazar|
-| 2 | | | | |
-| 3 | | | | |
+| 2 |pslmxxx |yanebohdan |vasylyna |vladyknazar |
+| 3 |vladyknazar |pslmxxx |yanebohdan |vasylyna |
 | 4 | | | | |
 | 5 | | | | |
 | 6 | | | | |
