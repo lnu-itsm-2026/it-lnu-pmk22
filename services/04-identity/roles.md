@@ -8,8 +8,8 @@
 | Блок | Service Owner | Incident Manager | Change Manager | Risk & Knowledge |
 |---|---|---|---|---|
 | 1 |MintEnder|fasywastaken| |liorenline| |
-| 2 |MintEnder|fasywastaken|liorenline|liorenline |
-| 3 | | | | |
+| 2 |MintEnder|fasywastaken|liorenline|liorenline|
+| 3 |fasywastaken|liorenline|MintEnder|MintEnder|
 | 4 | | | | |
 | 5 | | | | |
 | 6 | | | | |
