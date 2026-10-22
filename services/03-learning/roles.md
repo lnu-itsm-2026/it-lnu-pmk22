@@ -8,8 +8,8 @@
 | Блок | Service Owner | Incident Manager | Change Manager | Risk & Knowledge |
 |---|---|---|---|---|
 | 1 | Яцюк Ганна| Karina Malich | Mariana Rudyk | cvtgrtrt7-hub Денека Маркіян |
-| 2 | |Karina Malich | | |
-| 3 | | |Karina Malich | |
+| 2 |Яцюк Ганна|Karina Malich |Mariana Rudyk |cvtgrtrt7-hub Денека Маркіян |
+| 3 |cvtgrtrt7-hub Денека Маркіян |Mariana Rudyk|Karina Malich |Яцюк Ганна |
 | 4 | | | | |
 | 5 | | | | |
 | 6 | | | | |
@@ -20,6 +20,7 @@
 
 | GitHub-нік | Ім'я |
 |---|---|
+|cvtgrtrt7-hub|Денека Маркіян|
 |yatsiukhanna|Ганна|
 | karinamalich| Karina Malich|
 | marianarudyk|Mariana Rudyk |
