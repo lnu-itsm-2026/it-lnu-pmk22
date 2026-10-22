@@ -8,8 +8,8 @@
 | Блок | Service Owner | Incident Manager | Change Manager | Risk & Knowledge |
 |---|---|---|---|---|
 | 1 | Яцюк Ганна| Karina Malich | Mariana Rudyk | cvtgrtrt7-hub Денека Маркіян |
-| 2 | | | | |
-| 3 | | | | |
+| 2 | |Karina Malich | | |
+| 3 | | |Karina Malich | |
 | 4 | | | | |
 | 5 | | | | |
 | 6 | | | | |
