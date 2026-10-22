@@ -7,17 +7,20 @@
 
 | Блок | Service Owner | Incident Manager | Change Manager | Risk & Knowledge |
 |---|---|---|---|---|
-| 1 | | | | |
-| 2 | | | | |
-| 3 | | | | |
-| 4 | | | | |
-| 5 | | | | |
-| 6 | | | | |
-| 7 | | | | |
-| 8 | | | | |
+| 1 | danilizum128-netizen | MykhailoPlieshov | TarasPendykivskyi | DaniilMyronchuk |
+| 2 | danilizum128-netizen | MykhailoPlieshov | TarasPendykivskyi | DaniilMyronchuk |
+| 3 | DaniilMyronchuk | danilizum128-netizen | MykhailoPlieshov |TarasPendykivskyi|
+| 4 | TarasPendykivskyi | DaniilMyronchuk| danilizum128-netizen |MykhailoPlieshov |
+| 5 | MykhailoPlieshov |TarasPendykivskyi | DaniilMyronchuk| danilizum128-netizen |
+| 6 | danilizum128-netizen | MykhailoPlieshov |TarasPendykivskyi |DaniilMyronchuk |
+| 7 |DaniilMyronchuk | danilizum128-netizen | MykhailoPlieshov |TarasPendykivskyi |
+| 8 |TarasPendykivskyi |DaniilMyronchuk | danilizum128-netizen | MykhailoPlieshov |
 
 ## Склад команди
 
 | GitHub-нік | Ім'я |
 |---|---|
-| | |
+| TarasPendykivskyi | Тарас |
+| danilizum128-netizen | Даніїл |
+| DaniilMyronchuk | Даніїл |
+| MykhailoPlieshov | Михайло |

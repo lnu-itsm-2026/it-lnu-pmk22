@@ -7,9 +7,9 @@
 
 | Блок | Service Owner | Incident Manager | Change Manager | Risk & Knowledge |
 |---|---|---|---|---|
-| 1 | | | | |
-| 2 | | | | |
-| 3 | | | | |
+| 1 | sw-vladick | zanoz1ch | nazzony | Lev41k |
+| 2 | sw-vladick | zanoz1ch | nazzony | Lev41k |
+| 3 | zanoz1ch | nazzony | Lev41k | sw-vladick |
 | 4 | | | | |
 | 5 | | | | |
 | 6 | | | | |
@@ -20,4 +20,7 @@
 
 | GitHub-нік | Ім'я |
 |---|---|
-| | |
+| nazzony | Назар |
+| zanoz1ch | Владислав |
+|sw-vladick |Vladyslav |
+| Lev41k | Лев |

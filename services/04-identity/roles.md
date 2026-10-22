@@ -7,8 +7,8 @@
 
 | Блок | Service Owner | Incident Manager | Change Manager | Risk & Knowledge |
 |---|---|---|---|---|
-| 1 | | | | |
-| 2 | | | | |
+| 1 |MintEnder|fasywastaken| |liorenline| |
+| 2 |MintEnder|fasywastaken|liorenline|liorenline |
 | 3 | | | | |
 | 4 | | | | |
 | 5 | | | | |
@@ -20,4 +20,6 @@
 
 | GitHub-нік | Ім'я |
 |---|---|
-| | |
+|MintEnder|Анна Дрань|
+|fasywastaken|Роман Ласка|
+|liorenline|Іванна Дудка|

@@ -7,7 +7,7 @@
 
 | Блок | Service Owner | Incident Manager | Change Manager | Risk & Knowledge |
 |---|---|---|---|---|
-| 1 | | | | |
+| 1 |pslmxxx |yanebohdan |vasylyna |vladyknazar|
 | 2 | | | | |
 | 3 | | | | |
 | 4 | | | | |
@@ -20,4 +20,7 @@
 
 | GitHub-нік | Ім'я |
 |---|---|
-| | |
+|yanebohdan | Богдан|
+|VasylynaYutsyk| vasylyna|
+|pslmxxx|Aksiuta Nina|
+|vladyknazar|Vladyslav Nazar|
