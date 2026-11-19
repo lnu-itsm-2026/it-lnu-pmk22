@@ -11,7 +11,7 @@
 | 2 |Яцюк Ганна|Karina Malich |Mariana Rudyk |cvtgrtrt7-hub Денека Маркіян |
 | 3 |cvtgrtrt7-hub Денека Маркіян |Mariana Rudyk|Karina Malich |Яцюк Ганна |
 | 4 |Mariana Rudyk |Яцюк Ганна| | Karina Malich |
-| 5 | | | | |
+| 5 | Karina Malich | | | |
 | 6 | | | | |
 | 7 | | | | |
 | 8 | | | | |
