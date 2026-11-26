@@ -11,7 +11,7 @@
 | 2 |pslmxxx |yanebohdan |vasylyna |vladyknazar|
 | 3 |vladyknazar| pslmxxx|yanebohdan|vasylynayutsyk|
 | 4 | | | | |
-| 5 | | | | |
+| 5 ||yanebohdan  |pslmxxx |vladyknazar | vasylyna|
 | 6 | | | | |
 | 7 | | | | |
 | 8 | | | | |
