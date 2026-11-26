@@ -10,8 +10,8 @@
 | 1 | sw-vladick | zanoz1ch | nazzony | Lev41k |
 | 2 | sw-vladick | zanoz1ch | nazzony | Lev41k |
 | 3 | zanoz1ch | nazzony | Lev41k | sw-vladick |
-| 4 | | | | |
-| 5 | | | | |
+| 4 | zanoz1ch | nazzony | Lev41k | sw-vladick |
+| 5 | nazzony | Lev41k | sw-vladick | zanoz1ch |
 | 6 | | | | |
 | 7 | | | | |
 | 8 | | | | |
