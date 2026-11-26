@@ -10,8 +10,8 @@
 | 1 |MintEnder|fasywastaken| |liorenline| |
 | 2 |MintEnder|fasywastaken|liorenline|liorenline|
 | 3 |fasywastaken|liorenline|MintEnder|MintEnder|liorenline|
-| 4 | | | | |
-| 5 | | | | |
+| 4 |fasywastaken|liorenline|MintEnder|MintEnder|liorenline|
+| 5 |liorenline|MintEnder|fasywastaken|fasywastaken|MintEnder|
 | 6 | | | | |
 | 7 | | | | |
 | 8 | | | | |
